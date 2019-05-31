@@ -91,7 +91,7 @@ def adding_matz
     
 end
 
-programmer_hash[:yukihiro_matsumoto].include?
+programmer_hash[:yukihiro_matsumoto].include
 
 def changing_alan
 	programmer_hash = 
